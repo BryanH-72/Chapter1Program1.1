@@ -1,8 +1,7 @@
 /* Program File Name: Chapter1Program1.1.cpp
 Programmer: Bryan Hurley
 Date:January 2025
-Requirements: Write a program that has the following character variables: first, middle, and last. Store your initials in these
-variables then display them on the screen.
+Requirements: Write a program that calculates someones gross pay
 */
 #include <iostream>
 using namespace std;
